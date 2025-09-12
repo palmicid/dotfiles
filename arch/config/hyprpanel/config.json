@@ -1,0 +1,10 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "menus.clock.weather.location": "Bangkok",
+  "menus.clock.weather.unit": "imperial",
+  "wallpaper.image": "",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Lock-Screen",
+  "menus.dashboard.shortcuts.left.shortcut1.command": "hyprlock"
+}
